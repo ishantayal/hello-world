@@ -1,3 +1,8 @@
 # hello-world
 GitHub Tutorial
-g
+
+Hi All,
+
+This is learning to use GitHub to start contibuting to open-source projects.
+
+Thanks
